@@ -6,7 +6,7 @@ In this article, we will walk you step by step on how to build a simple yet eleg
 
 Install VScode and Install Live server Extension on it. 
 
-Explain the process step by step.
+##Explain the process step by step.
 
 ```bash
 $ git clone https://github.com/neerjhar/Javascript-Object-detection/edit/main/README.md
