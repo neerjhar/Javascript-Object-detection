@@ -9,7 +9,7 @@ Install VScode and Install Live server Extension on it.
 ##Explain the process step by step.
 
 ```bash
-$ git clone https://github.com/neerjhar/Javascript-Object-detection/edit/main/README.md
+$ git clone https://github.com/neerjhar/Javascript-Object-detection.git
 $ cd Javascript-Object-Detection
 $ code Javascript-Object-Detection
 ```
